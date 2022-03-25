@@ -1,5 +1,5 @@
 <H1> Oie, eu sou a Riany... 💕 </H1> 
--🖥️ Estou aprendendo HTML, CSS e Javascript
+-🖥️ Estou aprendendo HTML, CSS e Javascript!
 
 ##
 
