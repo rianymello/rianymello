@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Riany Mello</h1>
-<h4 align="center">i'm a front-end dev looking for new opportunities</h4>
+<h3 align="center">i'm a front-end dev looking for new opportunities</h3>
 
 - 🌱 I’m currently learning **React.js and Typescript**
 
 - 📫 How to reach me **mello.riany@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
