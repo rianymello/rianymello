@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Riany Mello</h1>
+<h1 align="center">Hi, I'm Riany Mello 👋</h1>
 <h3 align="center">i'm a front-end dev looking for new opportunities</h3>
 
 - 🌱 I’m currently learning **React.js and Typescript**
