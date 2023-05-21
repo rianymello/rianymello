@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Riany Mello 👋</h1>
-<h3 align="center">i'm a front-end dev looking for new opportunities</h3>
+<h1 align="center">Hello, I'm Riany Mello 👋</h1>
 
-- 🌱 I’m currently learning **React.js and Typescript**
+I'm an 18-year-old Brazilian student, currently studying Management and Computer Systems Programming. I love developing websites and have a passion for programming.
+I started studying programming on my own and have been honing my skills in this field. Currently, I'm learning React.js and TypeScript, and soon I'll be diving into Next.js. In my profile, you'll find projects that showcase my web development abilities. Welcome!
 
-- 📫 How to reach me **mello.riany@gmail.com**
+- 📫 **mello.riany@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
