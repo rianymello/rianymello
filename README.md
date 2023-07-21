@@ -1,22 +1,29 @@
-<h1 align="center">Hello, I'm Riany Mello 👋</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e22ce&height=120&section=header"/>
 
-I'm an 18-year-old Brazilian student, currently studying Management and Computer Systems Programming. I love developing websites and have a passion for programming.
-I started studying programming on my own and have been honing my skills in this field. Currently, I'm learning React.js and TypeScript, and soon I'll be diving into Next.js. In my profile, you'll find projects that showcase my web development abilities. Welcome!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7e22ce&size=30&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Riany+Mello;I'm+a+front-end+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-- 📫 **mello.riany@gmail.com**
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rianymello&bg_color=0d1117&color=7e22ce&line=7e22ce&point=7e22c0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rianymello&show_icons=true&count_private=true&hide_border=true&title_color=7e22ce&icon_color=7e22ce&text_color=c9d1d9&bg_color=0d1117" alt="Riany Mello github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianymello&layout=compact&hide_border=true&title_color=7e22ce&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+ 
+ ### Contact:
+
+<a href = "mailto:mello.riany@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rianymello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/riany mello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riany mello" height="30" width="40" /></a>
-</p>
+ ### Skills:
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<div markdown="1" >
-<p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=rianymello&show_icons=true&theme=dracula&locale=en" alt="rianymello" /></p>
 
-<p><img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=rianymello&show_icons=true&theme=dracula&locale=en&layout=compact" alt="rianymello" /></p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e22ce&height=120&section=footer"/>
 
-<div/>
