@@ -8,19 +8,19 @@
 
 
 <p align="left"> 
-  Olá, meu nome é Riany Mello, sou uma dev front-end autodidata.
+ Hello, my name is Riany Mello, I'm a self-taught front-end dev.
 </p>
 
 <p align="left">
-  ☕ Linguagens: Javascript, Typescript e React.js.
+ ☕ Languages: Javascript, Typescript and React.js.
 </p>
 
 <p align="left">
-  📚 Estudando: Python :)
+ 📚 Studying: Python :)
 </p>
 
 <p align="left">
-  💌 Entre em contato comigo:
+ 💌 Contact me:
 </p>
 
 <p align="left">
