@@ -1,41 +1,35 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=30&left=true&vLeft=true&width=1000&lines=Hi,+My+name+is+Riany+Mello;I'm+a+front-end+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RianyMello&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RianyMello&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
+###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7e22ce&size=30&left=true&vLeft=true&width=1000&lines=Hi,+My+name+is+Riany+Mello;I'm+a+front-end+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-<img src="https://github.com/rianymello/rianymello/blob/main/foto1.png?raw=true" min-width="400px" max-width="400px" width="250px" align="right">
+###
 
-
-<p align="left"> 
- Hello, my name is Riany Mello, I'm a self-taught front-end dev.
-</p>
-
-<p align="left">
- ☕ Languages: Javascript, Typescript and React.js.
-</p>
-
-<p align="left">
- 📚 Studying: Python :)
-</p>
-
-<p align="left">
- 💌 Contact me:
-</p>
-
-<p align="left">
-
-  <a href="https://www.linkedin.com/in/rianymello/" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-  
-##
-<div align="left" >
-<a href="https://skillicons.dev"   >
+<div align="left">
+<a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,javascript,typescript,nodejs,python,react,next,tailwind,styledcomponents,vercel,mysql,css,html,figma,wordpress" />
 </a>
-  <br />
+<br />
+</div>
 
-  </div>
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
 
 ##
