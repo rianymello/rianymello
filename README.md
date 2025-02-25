@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">💻 Self-taught Programmer & AI Enthusiast<br>Started coding at 14, passionate about innovation and problem-solving.</p>
+<p align="left">💻 Self-taught Programmer & AI Enthusiast<br>Started coding at 14, passionate about innovation.</p>
 
 ###
 
