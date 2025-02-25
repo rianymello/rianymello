@@ -1,45 +1,74 @@
+<!-- Título animado -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=30&left=true&vLeft=true&width=1000&lines=Hi,+My+name+is+Riany+Mello;I'm+a+front-end+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<p align="left">
-  Texto de introdução 1<br>
-  Texto de introdução 2<br>
-  Texto de introdução 3<br>
-  Texto de introdução 4
-</p>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-  <div>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,javascript,typescript,nodejs" />
-    </a>
-  </div>
-  <div>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,react,next,tailwind,styledcomponents,vercel" />
-    </a>
-  </div>
-  <div>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mysql,css,html,figma,wordpress" />
-    </a>
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RianyMello&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-  </div>
+###
+
+<img align="right" height="250" src="https://i.pinimg.com/originals/95/bc/6d/95bc6d3c61640b8b456e1f4a2b41306a.gif"  />
+
+###
+
+<p align="left">💻 Self-taught Programmer & AI Enthusiast<br>Started coding at 14, passionate about innovation and problem-solving.</p>
+
+###
+
+<p align="left">🔍 Tech Stack & Interests  <br>JavaScript, TypeScript, React, Next.js, Python, Node.js, Tailwind, SQL.  <br>Interested in AI, Computer Vision & Web Development.</p>
+
+###
+
+<p align="left">🚀 Founder & Mentor<br>Founder of STEM for Women, promoting free education for women in STEM.  <br>Mentor at Technovation Girls, empowering young women in tech.</p>
+
+###
+</br>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="43" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="43" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="43" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="43" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="43" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="43" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="43" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="43" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="43" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="43" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="43" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="43" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="43" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="43" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="43" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="43" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="43" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="43" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="43" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="43" alt="tailwindcss logo"  />
 </div>
 
+###
 
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-</p>
+###
 
-##
    ```
-
-
 
    // How to center a div
   
